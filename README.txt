@@ -1,4 +1,4 @@
-The script perform a specifc analysis on a dataset which is:
+The script performs a specific analysis on a dataset which is:
 	1-The Most Frequent Times of Travel.
 	2-The Most Popular Stations and Trip.
 	3-Trips Duration.
